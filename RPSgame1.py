@@ -1,5 +1,6 @@
 # seth
 # rock paper scissors
+# added a comment
 # variabls
 import random
 
@@ -41,7 +42,7 @@ while True:
 	# deal with player entering q
 	if pCh == "q":
 		break
-	# get computers chouse (random)
+	# get computers choiceq (random)
 	cHoice = random.choice(copCh)
 	#compare for r
 	if pCh == "r":
